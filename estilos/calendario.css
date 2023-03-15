@@ -1,0 +1,23 @@
+.imgcal{
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    padding: 35px;
+}
+.imgcal1{
+    margin-right: 10px;
+}
+.imgcal2{
+    margin-left: 10px;
+}
+h2{
+    font-family: sans-serif;
+    color: darkcyan;
+    display: block;
+    text-align: center;
+}
+#img{
+    display: block;
+    clear: both;
+    text-align: center;
+}

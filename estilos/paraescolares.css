@@ -1,0 +1,35 @@
+h2{
+    font-family: sans-serif;
+    color: darkcyan;
+    display: block;
+    text-align: center;
+}
+#img{
+    display: block;
+    clear: both;
+    text-align: center;
+}
+p{
+    display: block;
+    clear: both;
+    text-align:justify;
+    font-family: sans-serif;
+}
+
+h3{
+    color: blue;
+    font-family: monospace;
+    font-size: 1.8em;
+}
+
+.imgp{
+    text-align: center;
+    display: block;
+    clear: both;
+}
+li{
+    display: block;
+    clear: both;
+    text-align:justify;
+    font-family: sans-serif;
+}

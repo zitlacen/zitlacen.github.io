@@ -1,0 +1,19 @@
+#img1{
+    display: block;
+    clear: both;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: darkcyan;
+    font-family: cursive;
+}
+figcaption{
+    text-align: center;
+    color: darkcyan;
+    font-family: cursive;
+}
+
+p{
+    font-family: sans-serif;
+}

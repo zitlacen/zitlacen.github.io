@@ -1,0 +1,40 @@
+#logouno{
+    display: inline-block;
+    width: 15%;
+    float: left;
+}
+#bacho{
+    display: inline-block;
+    width: 15%;
+    text-align: right;
+}
+#titex{
+    display: inline-block;
+    width: 55%;
+    font-family: sans-serif;
+    text-align: center;
+}
+#barra{
+    clear: both;
+    font-family: monospace;
+    text-align: center;
+}
+.menu{
+    display: inline-block;
+    width: 10%;
+    background-color: beige;
+    border: skyblue solid;
+    
+}
+#marco{
+    width: 100%;
+    height: 500px;
+    padding: 8px;
+}
+#piecito{
+    border: double;
+    background-color: beige;
+    text-align: center;
+    font-family: monospace;
+    font-size: 13px;
+}
